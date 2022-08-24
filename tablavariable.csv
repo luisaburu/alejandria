@@ -1,0 +1,6 @@
+"cod_variable","descripcion_variable","unidad_medida","codigo_sensor"
+1,"Temp Aire 2 m","°C",68
+2,"Precipitacion","mm",240
+3,"Presión Atmosferica (1h)","HPa",255
+4,"Direccion Viento (10 min)","grados",104
+5,"Velocidad Viento (10 min)","m/s",103
